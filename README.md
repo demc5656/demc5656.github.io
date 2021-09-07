@@ -10,6 +10,6 @@ Read the Basics of the Web articles listed under the Portfolio Description assig
 <p>Unsure if this much is visible, but Dr. Bart mentioned that .md files also work out with HTML tags. So I decided I should try and see if the angle brackets around the p & /p and it seems to have worked!</p>
 
 # TODO
-Bento tutorials
+Small HTML only webpages?
 
 Flexbox Froggy
