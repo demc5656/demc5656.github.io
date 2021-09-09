@@ -19,4 +19,6 @@ CSS Color changes to <a href="https://demc5656.github.io/Test.html">Test.html</a
 # TODO
 Figure out Git Merges (just in case)
 
-Do more complicated things with HTML
+Get a good grasp on JS & TypeScript
+
+Make dice roller site?
