@@ -11,7 +11,8 @@ Read the Basics of the Web articles listed under the Portfolio Description assig
 
 I made a little reference sheet for myself while practicing super basic HTML. Might improve upon it, but for now here's a link to <a href="https://demc5656.github.io/Test.html">Test.html</a>! (12:02 9/9/21)
 
-Image embedding practice page with HTML for some art I made at <a href="https://demc5656.github.io/coolartimade.html">coolartimade.html</a>. (17:55 9/9/21)
+Image embedding practice page with HTML for some art I made at <a href="https://demc5656.github.io/coolartimade.html">coolartimade.html</a>. If you send someone an image via Discord, when you click on the preview of it you have the option to "Open Original" on the bottom. If you hit that it opens your image in your browser. From there copy the link and use between angle brackets img src="image link you copied"/
+I managed to get that to work for this one I drew and uploaded as a test. (17:55 9/9/21)
 
 # TODO
 Figure out Git Merges (just in case)
