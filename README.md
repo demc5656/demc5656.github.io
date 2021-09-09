@@ -9,7 +9,9 @@ Read the Basics of the Web articles listed under the Portfolio Description assig
 
 <p>Unsure if this much is visible, but Dr. Bart mentioned that .md files also work out with HTML tags. So I decided I should try and see if the angle brackets around the p & /p and it seems to have worked! (16:06 9/7/21)</p>
 
-I made a little reference sheet for myself while practicing super basic HTML. Might improve upon it, but for now here's a link to <a href="https://demc5656.github.io/Test.html">Test.html</a>! (12:02 9/8/21)
+I made a little reference sheet for myself while practicing super basic HTML. Might improve upon it, but for now here's a link to <a href="https://demc5656.github.io/Test.html">Test.html</a>! (12:02 9/9/21)
+
+Image embedding practice page with HTML for some art I made at <a href="https://demc5656.github.io/coolartimade.html">coolartimade.html</a>. (17:55 9/9/21)
 
 # TODO
 Figure out Git Merges (just in case)
