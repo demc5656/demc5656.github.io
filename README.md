@@ -1,6 +1,6 @@
 <head>
     <title>Portfolio</title>
-    <link rel="icon" type="image/png" href="https://cdn.discordapp.com/attachments/626217927858716674/887431019001688094/buffering.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://cdn.discordapp.com/attachments/626217927858716674/887434049793175582/icon.png" sizes="32x32">
 </head>
 
 # Dara McNally
