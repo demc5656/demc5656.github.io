@@ -21,7 +21,9 @@ Descriptions of specific work can be found <a href="https://demc5656.github.io/D
 
 9/9 - CSS colors added for 9/7 reference page
 
-9/12 - Messed with bolding on the descriptions page
+9/14 - Messed with bolding on the descriptions page
+
+9/14 - Added a tab icon and titles on most pages
 
 # TODO (Week 2)
 
