@@ -2,37 +2,36 @@
     <title>Portfolio</title>
     <link rel="icon" type="image/png" href="https://cdn.discordapp.com/attachments/626217927858716674/887431019001688094/buffering.png" sizes="32x32">
 </head>
-<body>
-    # Dara McNally
-    Email: mcnally@udel.edu
 
-    [Source Code!](https://github.com/demc5656/demc5656.github.io.git)
+# Dara McNally
+Email: mcnally@udel.edu
 
-    Descriptions of specific work can be found <a href="https://demc5656.github.io/Descriptions.html">here!</a>
+[Source Code!](https://github.com/demc5656/demc5656.github.io.git)
 
-    # Changelog
-    9/7 - Read the Basics of the Web articles
+Descriptions of specific work can be found <a href="https://demc5656.github.io/Descriptions.html">here!</a>
 
-    9/7 - HTML p test
+# Changelog
+9/7 - Read the Basics of the Web articles
 
-    9/9 - Made small reference page in HTML
+9/7 - HTML p test
 
-    9/9 - Made new site to practice embedding images in HTML
+9/9 - Made small reference page in HTML
 
-    9/9 - CSS colors added for 9/7 reference page
+9/9 - Made new site to practice embedding images in HTML
 
-    9/12 - Messed with bolding on the descriptions page
+9/9 - CSS colors added for 9/7 reference page
 
-    # TODO (Week 2)
+9/12 - Messed with bolding on the descriptions page
 
-    # TODO (Week 1)
-    Figure out Git Merges (just in case)
+# TODO (Week 2)
 
-    Get a good grasp on JS & TypeScript
+# TODO (Week 1)
+Figure out Git Merges (just in case)
 
-    Make dice roller site?
+Get a good grasp on JS & TypeScript
 
-    Image scaling?
+Make dice roller site?
 
-    Mess around with the components of HTML?
-</body>
+Image scaling?
+
+Mess around with the components of HTML?
