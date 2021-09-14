@@ -16,6 +16,8 @@ Descriptions of specific work can be found <a href="https://demc5656.github.io/D
 
 9/9 - CSS colors added for 9/7 reference page
 
+9/12 - Messed with bolding on the descriptions page
+
 # TODO (Week 2)
 
 # TODO (Week 1)
@@ -26,3 +28,5 @@ Get a good grasp on JS & TypeScript
 Make dice roller site?
 
 Image scaling?
+
+Mess around with the components of HTML?
