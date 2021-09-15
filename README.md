@@ -25,6 +25,8 @@ Descriptions of specific work can be found <a href="https://demc5656.github.io/D
 
 9/14 - Added a tab icon and titles on most pages
 
+9/15 -  Rezised image on [coolartimade.html](https://demc5656.github.io/coolartimade.html)
+
 # TODO (Week 2)
 
 
