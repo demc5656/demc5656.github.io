@@ -27,6 +27,7 @@ Descriptions of specific work can be found <a href="https://demc5656.github.io/D
 
 # TODO (Week 2)
 
+
 # TODO (Week 1)
 Figure out Git Merges (just in case)
 
@@ -37,3 +38,5 @@ Make dice roller site?
 Image scaling?
 
 Mess around with the components of HTML?
+
+Make index.html for ease of formatting?
