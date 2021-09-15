@@ -28,7 +28,11 @@ Descriptions of specific work can be found <a href="https://demc5656.github.io/D
 9/15 -  Rezised image on [coolartimade.html](https://demc5656.github.io/coolartimade.html)
 
 # TODO (Week 2)
+Use [this](https://sun.iwu.edu/~mliffito/cs_codex/posts/bootstrap/) tutorial to learn bootstrap
 
+Mess around with [Create React App](https://create-react-app.dev/) to see how good a handle I have on React and TypeScript
+
+Follow [this](https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/) tutorial to figure out some of Jest
 
 # TODO (Week 1)
 Figure out Git Merges (just in case)
