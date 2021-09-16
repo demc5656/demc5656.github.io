@@ -29,6 +29,8 @@ Descriptions of specific work can be found <a href="https://demc5656.github.io/D
 
 9/16 - Made a basic React App
 
+9/16 - Made minor changes to App.css to personalize
+
 # TODO (Week 2)
 Use [this](https://sun.iwu.edu/~mliffito/cs_codex/posts/bootstrap/) tutorial to learn bootstrap
 
