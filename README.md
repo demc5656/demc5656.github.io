@@ -25,12 +25,14 @@ Descriptions of specific work can be found <a href="https://demc5656.github.io/D
 
 9/14 - Added a tab icon and titles on most pages
 
-9/15 -  Rezised image on [coolartimade.html](https://demc5656.github.io/coolartimade.html)
+9/15 - Rezised image on [coolartimade.html](https://demc5656.github.io/coolartimade.html)
+
+9/16 - Made a basic React App
 
 # TODO (Week 2)
 Use [this](https://sun.iwu.edu/~mliffito/cs_codex/posts/bootstrap/) tutorial to learn bootstrap
 
-Mess around with [Create React App](https://create-react-app.dev/) to see how good a handle I have on React and TypeScript
+Mess make a more complicated page (maybe dice roller?) with [Create React App](https://create-react-app.dev/) to see how good a handle I have on React and TypeScript
 
 Follow [this](https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/) tutorial to figure out some of Jest
 
