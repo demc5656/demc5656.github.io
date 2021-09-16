@@ -33,6 +33,8 @@ Descriptions of specific work can be found <a href="https://demc5656.github.io/D
 
 9/16 - Struggling with Pull Requests?
 
+9/16 - False alarm I fixed deployment and it works properly now
+
 # TODO (Week 2)
 Use [this](https://sun.iwu.edu/~mliffito/cs_codex/posts/bootstrap/) tutorial to learn bootstrap
 
@@ -40,7 +42,7 @@ Mess make a more complicated page (maybe dice roller?) with [Create React App](h
 
 Follow [this](https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/) tutorial to figure out some of Jest
 
-MAKE SURE TO GET CURRENT REACT APP WORKING
+Add buttons/onClick to current app?
 
 # TODO (Week 1)
 Figure out Git Merges (just in case)
