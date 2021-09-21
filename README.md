@@ -35,6 +35,8 @@ Descriptions of specific work can be found <a href="https://demc5656.github.io/D
 
 9/16 - False alarm I fixed deployment and it works properly now
 
+9/21 - Did CI/CD tutorial for automatic deployment
+
 # TODO (Week 2)
 Use [this](https://sun.iwu.edu/~mliffito/cs_codex/posts/bootstrap/) tutorial to learn bootstrap
 
