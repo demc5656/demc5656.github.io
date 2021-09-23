@@ -37,10 +37,12 @@ Descriptions of specific work can be found <a href="https://demc5656.github.io/D
 
 9/21 - Did CI/CD tutorial for automatic deployment
 
+9/23 - Added Bootstrap to [my-app](https://demc5656.github.io/my-app/)
+
 # TODO (Week 2)
 Use [this](https://sun.iwu.edu/~mliffito/cs_codex/posts/bootstrap/) tutorial to learn bootstrap
 
-Mess make a more complicated page (maybe dice roller?) with [Create React App](https://create-react-app.dev/) to see how good a handle I have on React and TypeScript
+Make a more complicated page (maybe dice roller?) with [Create React App](https://create-react-app.dev/) to see how good a handle I have on React and TypeScript
 
 Follow [this](https://www.smashingmagazine.com/2020/06/practical-guide-testing-react-applications-jest/) tutorial to figure out some of Jest
 
