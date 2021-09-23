@@ -39,6 +39,11 @@ Descriptions of specific work can be found <a href="https://demc5656.github.io/D
 
 9/23 - Added Bootstrap to [my-app](https://demc5656.github.io/my-app/)
 
+9/23 - Worked on some (broken) testing during class
+
+# TODO (Week 3)
+
+
 # TODO (Week 2)
 Use [this](https://sun.iwu.edu/~mliffito/cs_codex/posts/bootstrap/) tutorial to learn bootstrap
 
