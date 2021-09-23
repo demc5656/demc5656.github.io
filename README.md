@@ -41,8 +41,14 @@ Descriptions of specific work can be found <a href="https://demc5656.github.io/D
 
 9/23 - Worked on some (broken) testing during class
 
-# TODO (Week 3)
+9/23 - Finished base code for a dice roller
 
+# TODO (Week 3)
+Add more functionality, like modifiers, to the dice roller
+
+Add DIY graphics?
+
+Perhaps add a local stat block save or custom dice combos? (For the purpose of getting closer to a character sheet.)
 
 # TODO (Week 2)
 Use [this](https://sun.iwu.edu/~mliffito/cs_codex/posts/bootstrap/) tutorial to learn bootstrap
