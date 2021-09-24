@@ -1,5 +1,5 @@
 <head>
-    <title>Portfolio</title>
+    <!--<title>Portfolio</title>-->
     <link rel="icon" type="image/png" href="https://cdn.discordapp.com/attachments/626217927858716674/887434049793175582/icon.png" sizes="32x32">
 </head>
 
