@@ -49,6 +49,8 @@ Descriptions of specific work can be found <a href="https://demc5656.github.io/D
 
 9/23 - Added Bootstrap-CSS stuff to fix formatting
 
+9/23 - Changed mobile icon to match tabs
+
 # TODO (Week 3)
 Add more functionality, like modifiers, to the dice roller
 
