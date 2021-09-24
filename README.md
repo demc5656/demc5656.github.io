@@ -45,6 +45,8 @@ Descriptions of specific work can be found <a href="https://demc5656.github.io/D
 
 9/23 - She works!
 
+9/23 - Formatting fixes so they don't push each other away
+
 # TODO (Week 3)
 Add more functionality, like modifiers, to the dice roller
 
