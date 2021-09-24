@@ -58,6 +58,10 @@ Add clear button(s) for the values
 
 Fix the silly formatting issues
 
+Add weapon list based on editdndlist?
+
+Add spell list based on editdndlist?
+
 # TODO (Week 2)
 Use [this](https://sun.iwu.edu/~mliffito/cs_codex/posts/bootstrap/) tutorial to learn bootstrap
 
