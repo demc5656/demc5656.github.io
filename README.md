@@ -45,7 +45,9 @@ Descriptions of specific work can be found <a href="https://demc5656.github.io/D
 
 9/23 - She works!
 
-9/23 - Formatting fixes so they don't push each other away
+9/23 - Attempted and failed formatting fixes so they don't push each other away
+
+9/23 - Added Bootstrap-CSS stuff to fix formatting
 
 # TODO (Week 3)
 Add more functionality, like modifiers, to the dice roller
