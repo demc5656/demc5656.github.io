@@ -52,6 +52,8 @@ Add DIY graphics?
 
 Perhaps add a local stat block save or custom dice combos? (For the purpose of getting closer to a character sheet.)
 
+Add clear button(s) for the values
+
 # TODO (Week 2)
 Use [this](https://sun.iwu.edu/~mliffito/cs_codex/posts/bootstrap/) tutorial to learn bootstrap
 
