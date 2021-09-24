@@ -56,6 +56,8 @@ Perhaps add a local stat block save or custom dice combos? (For the purpose of g
 
 Add clear button(s) for the values
 
+Fix the silly formatting issues
+
 # TODO (Week 2)
 Use [this](https://sun.iwu.edu/~mliffito/cs_codex/posts/bootstrap/) tutorial to learn bootstrap
 
