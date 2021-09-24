@@ -10,6 +10,8 @@ Email: mcnally@udel.edu
 
 Descriptions of specific work can be found <a href="https://demc5656.github.io/Descriptions.html">here!</a>
 
+Check out my [Dice Roller!](https://demc5656.github.io/my-app/)
+
 # Changelog
 9/7 - Read the Basics of the Web articles
 
@@ -52,6 +54,8 @@ Descriptions of specific work can be found <a href="https://demc5656.github.io/D
 9/23 - Changed mobile icon to match tabs
 
 9/24 - Added reset buttons to dice roller
+
+9/24 - Merged: totals now functional
 
 # TODO (Week 3)
 Add more functionality, like modifiers, to the dice roller
