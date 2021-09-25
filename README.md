@@ -57,6 +57,8 @@ Check out my [Dice Roller!](https://demc5656.github.io/my-app/)
 
 9/24 - Merged: totals now functional
 
+9/24 - Added mega total
+
 # TODO (Week 3)
 Add more functionality, like modifiers, to the dice roller
 
