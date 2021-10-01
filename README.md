@@ -65,6 +65,8 @@ Check out my [Dice Roller!](https://demc5656.github.io/my-app/)
 
 9/30 - Semi-fixed multi-roller
 
+10/1 - Multi roller operational (at 00:07)
+
 # TODO (Week 3)
 Add more functionality, like modifiers, to the dice roller
 
