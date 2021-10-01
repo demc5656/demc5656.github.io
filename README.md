@@ -67,6 +67,8 @@ Check out my [Dice Roller!](https://demc5656.github.io/my-app/)
 
 10/1 - Multi roller operational (at 00:07)
 
+10/1 - Modifiers operational
+
 # TODO (Week 3)
 Add more functionality, like modifiers, to the dice roller
 
