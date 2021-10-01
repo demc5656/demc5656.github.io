@@ -63,6 +63,8 @@ Check out my [Dice Roller!](https://demc5656.github.io/my-app/)
 
 9/30 - Added text boxes to the modifiers branch (not functional yet)
 
+9/30 - Semi-fixed multi-roller
+
 # TODO (Week 3)
 Add more functionality, like modifiers, to the dice roller
 
